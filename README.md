@@ -9,7 +9,7 @@
     measurements. Assuming we have the measurements of the iris flowers according to
     their species, and the task is to train a machine learning model that can learn from the
     measurements of the iris species and classify them.
-    ![image](https://user-images.githubusercontent.com/76813100/233169174-539853cd-5619-4d99-bc38-6bb58e232b76.png)
+    ![image](https://user-images.githubusercontent.com/76813100/233592578-f5087a34-f7a7-4eb0-b5fb-700659e7350d.png)
 
 ## Task 2:
 
