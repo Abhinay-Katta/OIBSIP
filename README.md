@@ -13,13 +13,17 @@
 
 ## Task 2:
 
-- Car Price Prediction: - Unemployment is measured by the unemployment rate which is the number of people
-  who are unemployed as a percentage of the total labour force. We have seen a sharp
-  increase in the unemployment rate during Covid-19, so we are going to analyze the unemployment rate.
+- Car Price Prediction: 
+  - The price of a car depends on a lot of factors like the goodwill of the brand of the car,
+features of the car, horsepower and the mileage it gives and many more. Car price
+prediction is one of the major research areas in machine learning
+![image](https://user-images.githubusercontent.com/76813100/233592157-93332178-5925-4220-a1a2-5be9b4df870c.png)
+
 
 ## Task 3:
 
-- Sales prediction: - Sales prediction means predicting how much of a product people will buy based on factors
+- Sales prediction: 
+  - Sales prediction means predicting how much of a product people will buy based on factors
   such as the amount you spend to advertise your product, the segment of people you
   advertise for, or the platform you are advertising on about your product.
   Typically, a product and service-based business always need their Data Scientist to predict
