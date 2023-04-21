@@ -7,7 +7,7 @@
 - Iris Classification:
   - Iris flower has three species; setosa, versicolor, and virginica, which differs according to their
     measurements. Assuming we have the measurements of the iris flowers according to
-    their species, and the task is to train a machine learning model that can learn from the
+    their species, the task is to train a machine learning model that can learn from the
     measurements of the iris species and classify them.
     ![image](https://user-images.githubusercontent.com/76813100/233592578-f5087a34-f7a7-4eb0-b5fb-700659e7350d.png)
 
@@ -15,9 +15,9 @@
 
 - Car Price Prediction: 
   - The price of a car depends on a lot of factors like the goodwill of the brand of the car,
-features of the car, horsepower and the mileage it gives and many more. Car price
-prediction is one of the major research areas in machine learning.
-![image](https://user-images.githubusercontent.com/76813100/233592157-93332178-5925-4220-a1a2-5be9b4df870c.png)
+    features of the car, horsepower and the mileage it gives and many more. Car price
+    prediction is one of the major research areas in machine learning.
+    ![image](https://user-images.githubusercontent.com/76813100/233592157-93332178-5925-4220-a1a2-5be9b4df870c.png)
 
 
 ## Task 3:
